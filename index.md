@@ -22,19 +22,19 @@ I completed my postdoctoral training at SLMath, Johns Hopkins University, and Im
 
 My research was partially supported by the [NSF](https://www.nsf.gov).
 
-### Original Research Papers
+### Original Research Articles by Topics
 
-- Colding--Minicozzi entropy
+#### Expanders of mean curvature flow
 
-- Expanders of mean curvature flow
+#### Hypersurfaces of low entropy
 
-- Shrinkers of mean curvature flow
+#### Shrinkers of mean curvature flow
 
-- Shrinking Ricci solitons
+#### Shrinking Ricci solitons
 
-- Harmonic map heat flow
+#### Harmonic map heat flow
 
-- Polynomial differential systems
+#### Polynomial differential systems
 
 ### Expository Writings
 
