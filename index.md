@@ -12,18 +12,9 @@ I have also been a visiting researcher at the Simons Laufer Mathematical Science
 I earned a B.S. in 2006 from Peking University and a Ph.D. in Mathematics in 2011 from the Massachusetts Institute of Technology, where I was advised by Tobias H. Colding.
 I completed my postdoctoral training at SLMath, Johns Hopkins University, and Imperial College London.
 
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
+## Publications
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
-
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
