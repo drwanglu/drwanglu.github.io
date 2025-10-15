@@ -62,7 +62,7 @@ My research is partially supported by the [NSF](https://www.nsf.gov).
 
 #### Polynomial differential systems
 
-- A quartic system and a quintic system with fine focus of order 18 (with J. Huang, [F. Wang](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKIfpg), and [J. Yang](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/y_20180628175159671361/69983.htm)), *Bull. Sci. Math.* 132 (2008), no. 3, 205–217 
+- A quartic system and a quintic system with fine focus of order 18 (with J. Huang, [F. Wang](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKIfpg), and [J. Yang](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/y_20180628175159671361/69983.htm)), *Bull. Sci. Math.* 132 (2008), no. 3, 205–217 [DOI](https://doi.org/10.1016/j.bulsci.2006.12.006)
 
 ### Expository Writings
 
