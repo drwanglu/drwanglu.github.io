@@ -66,7 +66,7 @@ My research is partially supported by the [NSF](https://www.nsf.gov).
 
 ### Expository Writings
 
-- Colding-Minicozzi entropy and complexity of submanifolds (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), *Notices Amer. Math. Soc.* 71 (2024), no. 7, 861--867 [PDF](https://www.ams.org/journals/notices/202407/rnoti-p861.pdf)
+- Colding-Minicozzi entropy and complexity of submanifolds (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), *Notices Amer. Math. Soc.* 71 (2024), no. 7, 861--867 [DOI](https://doi.org/10.1090/noti2978)
 - Entropy in mean curvature flow, *ICM—International Congress of Mathematicians*, Vol. 4, Sections 5--8, 2656--2676, EMS Press, Berlin, 2023 [PDF](https://ems.press/content/book-chapter-files/33218?nt=1)
 
 ### Theses
