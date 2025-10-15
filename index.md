@@ -22,7 +22,7 @@ I completed my postdoctoral training at SLMath, Johns Hopkins University, and Im
 
 My research was partially supported by the [NSF](https://www.nsf.gov).
 
-### Peer-reviewed Papers
+### Original Research Papers
 
 - Colding--Minicozzi entropy
 
@@ -33,6 +33,8 @@ My research was partially supported by the [NSF](https://www.nsf.gov).
 - Shrinking Ricci solitons
 
 - Harmonic map heat flow
+
+- Polynomial differential systems
 
 ### Expository Writings
 
