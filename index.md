@@ -24,6 +24,7 @@ My research is partially supported by the [NSF](https://www.nsf.gov).
 
 #### Expanders of mean curvature flow
 
+- Existence of monotone Morse flow lines of the expander functional (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/) and [L. Chen](https://sites.google.com/utk.edu/lchen63/)), to appear in *Tran. Amer. Math. Soc.*. ArXiv: [2404.08541](https://arxiv.org/abs/2404.08541)
 - An integer degree for asymptotically conical self-expanders (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), *Calc. Var. Partial Differential Equations* 62 (2023), no. 7, Paper No. 200, 46 pp. ArXiv: [1807.06494](https://arxiv.org/abs/1807.06494)
 - Topological uniqueness for self-expanders of small entropy (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), *Camb. J. Math.* 10 (2022), no. 4, 785--833. ArXiv: [1902.02642](https://arxiv.org/abs/1902.02642)
 - A mountain-pass theorem for asymptotically conical self-expanders (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), *Peking Math. J.* 5 (2022), no. 2, 213--278. ArXiv: [2003.13857](https://arxiv.org/abs/2003.13857)
@@ -41,7 +42,7 @@ My research is partially supported by the [NSF](https://www.nsf.gov).
 
 #### Shrinkers of mean curvature flow
 
-- Asymptotic structure of self-shrinkers, Preprint. ArXiv: [1610.04904](https://arxiv.org/abs/1610.04904)
+- Asymptotic structure of self-shrinkers. ArXiv: [1610.04904](https://arxiv.org/abs/1610.04904)
 - A topological property of asymptotically conical self-shrinkers of small entropy (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), *Duke Math. J.* 166 (2017), no. 3, 403--435. ArXiv: [1504.01996](https://arxiv.org/abs/1504.01996)
 - Uniqueness of self-similar shrinkers with asymptotically cylindrical ends, *J. Reine Angew. Math.* 715 (2016), 207--230.
 - A remark on a uniqueness property of high multiplicity tangent flows in dimension 3 (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), *Int. Math. Res. Not.* IMRN 2015, no. 15, 6286--6294. ArXiv: [1402.6687](https://arxiv.org/abs/1402.6687)
