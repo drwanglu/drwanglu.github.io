@@ -64,7 +64,7 @@ My research is partially supported by the [NSF](https://www.nsf.gov).
 
 - A quartic system and a quintic system with fine focus of order 18 (with J. Huang, [F. Wang](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKIfpg), and [J. Yang](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/y_20180628175159671361/69983.htm)), *Bull. Sci. Math.* 132 (2008), no. 3, 205–217 [DOI](https://doi.org/10.1016/j.bulsci.2006.12.006)
 
-### Expository Writings
+### Expository Articles
 
 - Colding-Minicozzi entropy and complexity of submanifolds (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), *Notices Amer. Math. Soc.* 71 (2024), no. 7, 861--867 [DOI](https://doi.org/10.1090/noti2978)
 - Entropy in mean curvature flow, *ICM—International Congress of Mathematicians*, Vol. 4, Sections 5--8, 2656--2676, EMS Press, Berlin, 2023 [DOI](https://doi.org/10.4171/ICM2022/116)
