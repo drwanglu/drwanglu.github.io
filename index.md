@@ -13,8 +13,8 @@ I completed my postdoctoral training at the Mathematical Sciences Research Insti
 
 ## News
 
-- Teaching Math 5260 (Introduction to Differentiable Manifolds) in Fall 2025.
-- Co-organizing the [Geometric Analysis Seminar](https://sites.google.com/view/xinrui-zhao/yale-geometric-analysis-seminar/).
+- Teaching Math 5260 (Introduction to Differentiable Manifolds) in Fall 2025
+- Co-organizing the [Geometric Analysis Seminar](https://sites.google.com/view/xinrui-zhao/yale-geometric-analysis-seminar/)
 
 ## Publications
 
