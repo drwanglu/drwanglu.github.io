@@ -13,6 +13,11 @@ I have also been a visiting researcher at the Simons Laufer Mathematical Science
 I earned a B.S. in 2006 from Peking University and a Ph.D. in Mathematics in 2011 from the Massachusetts Institute of Technology, where I was advised by Tobias H. Colding.
 I completed my postdoctoral training at SLMath, Johns Hopkins University, and Imperial College London.
 
+## News
+
+- Teaching [Math 5260] (https://courses.yale.edu/?srcdb=202503&subject=MATH) (Introduction to Differentiable Manifolds) in Fall 2025.
+- Co-organizing the [Geometric Analysis Seminar] (https://sites.google.com/view/xinrui-zhao/yale-geometric-analysis-seminar) in Fall 2025.
+
 
 
 
