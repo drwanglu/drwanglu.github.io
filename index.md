@@ -67,11 +67,11 @@ My research is partially supported by the [NSF](https://www.nsf.gov).
 ### Expository Writings
 
 - Colding-Minicozzi entropy and complexity of submanifolds (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), *Notices Amer. Math. Soc.* 71 (2024), no. 7, 861--867 [DOI](https://doi.org/10.1090/noti2978)
-- Entropy in mean curvature flow, *ICM—International Congress of Mathematicians*, Vol. 4, Sections 5--8, 2656--2676, EMS Press, Berlin, 2023 [PDF](https://ems.press/content/book-chapter-files/33218?nt=1)
+- Entropy in mean curvature flow, *ICM—International Congress of Mathematicians*, Vol. 4, Sections 5--8, 2656--2676, EMS Press, Berlin, 2023 [DOI](https://doi.org/10.4171/ICM2022/116)
 
 ### Theses
 
-- Self-shrinkers of Mean Curvature Flow and Harmonic Map Heat Flow with Rough Boundary Data, *Thesis (Ph.D.)–Massachusetts Institute of Technology*, ProQuest LLC, Ann Arbor, MI, 2011 [PDF](https://dspace.mit.edu/bitstream/handle/1721.1/67817/768002313-MIT.pdf?sequence=2&isAllowed=y)
+- Self-shrinkers of Mean Curvature Flow and Harmonic Map Heat Flow with Rough Boundary Data, *Thesis (Ph.D.)–Massachusetts Institute of Technology*, ProQuest LLC, Ann Arbor, MI, 2011 [URI](http://hdl.handle.net/1721.1/67817)
 
 
 
