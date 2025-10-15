@@ -7,9 +7,9 @@ layout: homepage
 I am a Professor of [Mathematics](https://math.yale.edu) at [Yale University](https://yale.edu). 
 My research interests lie in geometric analysis and differential geometry, with a particular focus on geometric flows -- such as mean curvature flow and Ricci flow -- and minimal surfaces.
 
-I previously held faculty positions at Caltech and the University of Wisconsin--Madison. 
-I obtained my Ph.D. in Mathematics from MIT in 2011, under the supervision of [Tobias H. Colding](https://math.mit.edu/directory/profile.html?pid=50).
-I completed my postdoctoral training at the Mathematical Sciences Research Institute (MSRI, now SLMath), Johns Hopkins University, and Imperial College London.
+I previously held faculty positions at [Caltech](https://pma.divisions.caltech.edu/research-and-academics/mathematics) and the [University of Wisconsin--Madison](https://math.wisc.edu). 
+I obtained my Ph.D. in Mathematics from [MIT](https://math.mit.edu) in 2011, under the supervision of [Tobias H. Colding](https://math.mit.edu/directory/profile.html?pid=50).
+I completed my postdoctoral training at the Mathematical Sciences Research Institute (MSRI, now [SLMath](https://www.slmath.org)), [Johns Hopkins University](https://mathematics.jhu.edu), and [Imperial College London](https://www.imperial.ac.uk/mathematics/).
 
 ## News
 
