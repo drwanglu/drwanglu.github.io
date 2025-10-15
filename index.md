@@ -44,7 +44,7 @@ My research is partially supported by the [NSF](https://www.nsf.gov).
 
 - Asymptotic structure of self-shrinkers [arXiv: 1610.04904](https://arxiv.org/abs/1610.04904)
 - A topological property of asymptotically conical self-shrinkers of small entropy (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), *Duke Math. J.* 166 (2017), no. 3, 403--435 [arXiv: 1504.01996](https://arxiv.org/abs/1504.01996)
-- Uniqueness of self-similar shrinkers with asymptotically cylindrical ends, *J. Reine Angew. Math.* 715 (2016), 207--230
+- Uniqueness of self-similar shrinkers with asymptotically cylindrical ends, *J. Reine Angew. Math.* 715 (2016), 207--230 [PDF](.assets/files/UniqueCylinder_F.pdf)
 - A remark on a uniqueness property of high multiplicity tangent flows in dimension 3 (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), *Int. Math. Res. Not.* IMRN 2015, no. 15, 6286--6294 [arXiv: 1402.6687](https://arxiv.org/abs/1402.6687)
 - Uniqueness of self-similar shrinkers with asymptotically conical ends, *J. Amer. Math. Soc.* 27 (2014), no. 3, 613--638 [arXiv: 1110.0450](https://arxiv.org/abs/1110.0450)
 - A Bernstein type theorem for self-similar shrinkers, *Geom. Dedicata* 151 (2011), 297--303 [arXiv: 0912.1809](https://arxiv.org/abs/0912.1809)
