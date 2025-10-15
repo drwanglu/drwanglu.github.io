@@ -4,7 +4,8 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Professor of Mathematics at Yale University. 
+My research interests lie in geometric analysis and differential geometry, with a particular focus on geometric flows -- such as mean curvature flow and Ricci flow -- and minimal surfaces.
 
 ## Research Interests
 
