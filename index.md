@@ -71,7 +71,7 @@ My research is partially supported by the [NSF](https://www.nsf.gov).
 
 ### Theses
 
-- Self-shrinkers of Mean Curvature Flow and Harmonic Map Heat Flow with Rough Boundary Data, *Thesis (Ph.D.)–Massachusetts Institute of Technology*, ProQuest LLC, Ann Arbor, MI, 2011 [URI](http://hdl.handle.net/1721.1/67817)
+- Self-shrinkers of mean curvature flow and harmonic map heat flow with rough boundary data, *Thesis (Ph.D.)–Massachusetts Institute of Technology*, ProQuest LLC, Ann Arbor, MI, 2011 [URI](http://hdl.handle.net/1721.1/67817)
 
 
 
