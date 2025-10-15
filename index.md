@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Professor of Mathematics at Yale University. 
+I am a Professor of [Mathematics](https://math.yale.edu) at [Yale University](https://yale.edu). 
 My research interests lie in geometric analysis and differential geometry, with a particular focus on geometric flows -- such as mean curvature flow and Ricci flow -- and minimal surfaces.
 
 I previously held faculty positions at Caltech and the University of Wisconsin--Madison. 
