@@ -18,17 +18,23 @@ I completed my postdoctoral training at the Mathematical Sciences Research Insti
 
 ## Publications
 
-My research was partially supported by the [NSF](https://www.nsf.gov).
+My research is partially supported by the [NSF](https://www.nsf.gov).
 
 ### Original Research Articles by Topics
 
 #### Expanders of mean curvature flow
 
+- 
+
 #### Hypersurfaces of low entropy
+
+- Lower bounds on density for topologically nontrivial minimal cones up to dimension six (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), ***Forum Math. Sigma*** 13 (2025), Paper No. e122, 18 pp. ArXiv: [2404.04382](https://arxiv.org/abs/2404.04382).
 
 #### Shrinkers of mean curvature flow
 
 #### Shrinking Ricci solitons
+
+- Isometries of asymptotically conical shrinking Ricci solitons (with [B. Kotschwar](https://search.asu.edu/profile/1797093)), ***Comm. Anal. Geom.*** 32 (2024), no. 1, 1–19. ArXiv: [1901.00044](https://arxiv.org/abs/1901.00044).
 
 #### Harmonic map heat flow
 
