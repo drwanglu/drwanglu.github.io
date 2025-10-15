@@ -22,7 +22,7 @@ I completed my postdoctoral training at SLMath, Johns Hopkins University, and Im
 
 My research was partially supported by the [NSF](https://www.nsf.gov).
 
-### Colding--Minicozzi Entropy
+### Colding--Minicozzi entropy
 
 ### Expanders of mean curvature flow
 
@@ -30,7 +30,7 @@ My research was partially supported by the [NSF](https://www.nsf.gov).
 
 ### Shrinking Ricci solitons
 
-### Miscellaneous topics
+### Other topics
 
 ### Expository writings
 
