@@ -24,42 +24,44 @@ My research is partially supported by the [NSF](https://www.nsf.gov).
 
 #### Expanders of mean curvature flow
 
-- An integer degree for asymptotically conical self-expanders (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), *Calc. Var. Partial Differential Equations* 62 (2023), no. 7, Paper No. 200, 46 pp. ArXiv: [1807.06494](https://arxiv.org/abs/1807.06494).
-- Topological uniqueness for self-expanders of small entropy (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), *Camb. J. Math.* 10 (2022), no. 4, 785--833. ArXiv: [1902.02642](https://arxiv.org/abs/1902.02642).
-- A mountain-pass theorem for asymptotically conical self-expanders (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), *Peking Math. J.* 5 (2022), no. 2, 213--278. ArXiv: [2003.13857](https://arxiv.org/abs/2003.13857).
-- Relative expander entropy in the presence of a two-sided obstacle and applications (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), *Adv. Math.* 399 (2022), Paper No. 108284, 48 pp. ArXiv: [1906.07863](https://arxiv.org/abs/1906.07863).
-- Smooth compactness for spaces of asymptotically conical self-expanders of mean curvature flow (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), *Int. Math. Res. Not.* IMRN 2021, no. 12, 9016--9044. ArXiv: [1804.09076](https://arxiv.org/abs/1804.09076).
-- The space of asymptotically conical self-expanders of mean curvature flow (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), *Math. Ann.* 380 (2021), no. 1-2, 175--230. ArXiv: [1712.04366](https://arxiv.org/abs/1712.04366).
+- An integer degree for asymptotically conical self-expanders (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), *Calc. Var. Partial Differential Equations* 62 (2023), no. 7, Paper No. 200, 46 pp. ArXiv: [1807.06494](https://arxiv.org/abs/1807.06494)
+- Topological uniqueness for self-expanders of small entropy (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), *Camb. J. Math.* 10 (2022), no. 4, 785--833. ArXiv: [1902.02642](https://arxiv.org/abs/1902.02642)
+- A mountain-pass theorem for asymptotically conical self-expanders (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), *Peking Math. J.* 5 (2022), no. 2, 213--278. ArXiv: [2003.13857](https://arxiv.org/abs/2003.13857)
+- Relative expander entropy in the presence of a two-sided obstacle and applications (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), *Adv. Math.* 399 (2022), Paper No. 108284, 48 pp. ArXiv: [1906.07863](https://arxiv.org/abs/1906.07863)
+- Smooth compactness for spaces of asymptotically conical self-expanders of mean curvature flow (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), *Int. Math. Res. Not.* IMRN 2021, no. 12, 9016--9044. ArXiv: [1804.09076](https://arxiv.org/abs/1804.09076)
+- The space of asymptotically conical self-expanders of mean curvature flow (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), *Math. Ann.* 380 (2021), no. 1-2, 175--230. ArXiv: [1712.04366](https://arxiv.org/abs/1712.04366)
 
 #### Hypersurfaces of low entropy
 
-- Lower bounds on density for topologically nontrivial minimal cones up to dimension six (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), *Forum Math. Sigma* 13 (2025), Paper No. e122, 18 pp. ArXiv: [2404.04382](https://arxiv.org/abs/2404.04382).
-- Closed hypersurfaces of low entropy in R<sup>4</sup> are isotopically trivial (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), *Duke Math. J.* 171 (2022), no. 7, 1531--1558. ArXiv: [2003.13858](https://arxiv.org/abs/2003.13858).
-- Hausdorff stability of the round two-sphere under small perturbations of the entropy (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), *Math. Res. Lett.* 25 (2018), no. 2, 347--365. ArXiv: [1608.02314](https://arxiv.org/abs/1608.02314).
-- Topology of closed hypersurfaces of small entropy (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), *Geom. Topol.* 22 (2018), no. 2, 1109--1141. ArXiv: [1511.00387](https://arxiv.org/abs/1511.00387).
-- A sharp lower bound for the entropy of closed hypersurfaces up to dimension six (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), *Invent. Math.* 206 (2016), no. 3, 601--627. ArXiv: [1406.2966](https://arxiv.org/abs/1406.2966).
+- Lower bounds on density for topologically nontrivial minimal cones up to dimension six (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), *Forum Math. Sigma* 13 (2025), Paper No. e122, 18 pp. ArXiv: [2404.04382](https://arxiv.org/abs/2404.04382)
+- Closed hypersurfaces of low entropy in R<sup>4</sup> are isotopically trivial (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), *Duke Math. J.* 171 (2022), no. 7, 1531--1558. ArXiv: [2003.13858](https://arxiv.org/abs/2003.13858)
+- Hausdorff stability of the round two-sphere under small perturbations of the entropy (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), *Math. Res. Lett.* 25 (2018), no. 2, 347--365. ArXiv: [1608.02314](https://arxiv.org/abs/1608.02314)
+- Topology of closed hypersurfaces of small entropy (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), *Geom. Topol.* 22 (2018), no. 2, 1109--1141. ArXiv: [1511.00387](https://arxiv.org/abs/1511.00387)
+- A sharp lower bound for the entropy of closed hypersurfaces up to dimension six (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), *Invent. Math.* 206 (2016), no. 3, 601--627. ArXiv: [1406.2966](https://arxiv.org/abs/1406.2966)
 
 #### Shrinkers of mean curvature flow
 
-- Asymptotic structure of self-shrinkers, Preprint. ArXiv: [1610.04904](https://arxiv.org/abs/1610.04904).
-- A topological property of asymptotically conical self-shrinkers of small entropy (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), *Duke Math. J.* 166 (2017), no. 3, 403--435. ArXiv: [1504.01996](https://arxiv.org/abs/1504.01996).
+- Asymptotic structure of self-shrinkers, Preprint. ArXiv: [1610.04904](https://arxiv.org/abs/1610.04904)
+- A topological property of asymptotically conical self-shrinkers of small entropy (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), *Duke Math. J.* 166 (2017), no. 3, 403--435. ArXiv: [1504.01996](https://arxiv.org/abs/1504.01996)
 - Uniqueness of self-similar shrinkers with asymptotically cylindrical ends, *J. Reine Angew. Math.* 715 (2016), 207--230.
-- A remark on a uniqueness property of high multiplicity tangent flows in dimension 3 (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), *Int. Math. Res. Not.* IMRN 2015, no. 15, 6286--6294. ArXiv: [1402.6687](https://arxiv.org/abs/1402.6687).
-- Uniqueness of self-similar shrinkers with asymptotically conical ends, *J. Amer. Math. Soc.* 27 (2014), no. 3, 613--638. ArXiv: [1110.0450](https://arxiv.org/abs/1110.0450).
-- A Bernstein type theorem for self-similar shrinkers, *Geom. Dedicata* 151 (2011), 297--303. ArXiv: [0912.1809](https://arxiv.org/abs/0912.1809).
+- A remark on a uniqueness property of high multiplicity tangent flows in dimension 3 (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), *Int. Math. Res. Not.* IMRN 2015, no. 15, 6286--6294. ArXiv: [1402.6687](https://arxiv.org/abs/1402.6687)
+- Uniqueness of self-similar shrinkers with asymptotically conical ends, *J. Amer. Math. Soc.* 27 (2014), no. 3, 613--638. ArXiv: [1110.0450](https://arxiv.org/abs/1110.0450)
+- A Bernstein type theorem for self-similar shrinkers, *Geom. Dedicata* 151 (2011), 297--303. ArXiv: [0912.1809](https://arxiv.org/abs/0912.1809)
 
 #### Shrinking Ricci solitons
 
-- Isometries of asymptotically conical shrinking Ricci solitons (with [B. Kotschwar](https://search.asu.edu/profile/1797093)), *Comm. Anal. Geom.* 32 (2024), no. 1, 1--19. ArXiv: [1901.00044](https://arxiv.org/abs/1901.00044).
-- A uniqueness theorem for asymptotically cylindrical shrinking Ricci solitons (with [B. Kotschwar](https://search.asu.edu/profile/1797093)), *J. Differential Geom.* 126 (2024), no. 1, 215--295. ArXiv: [1712.03185](https://arxiv.org/abs/1712.03185).
-- Rigidity of asymptotically conical shrinking gradient Ricci solitons (with [B. Kotschwar](https://search.asu.edu/profile/1797093)), *J. Differential Geom.* 100 (2015), no. 1, 55--108. ArXiv: [1307.4746](https://arxiv.org/abs/1307.4746).
+- Isometries of asymptotically conical shrinking Ricci solitons (with [B. Kotschwar](https://search.asu.edu/profile/1797093)), *Comm. Anal. Geom.* 32 (2024), no. 1, 1--19. ArXiv: [1901.00044](https://arxiv.org/abs/1901.00044)
+- A uniqueness theorem for asymptotically cylindrical shrinking Ricci solitons (with [B. Kotschwar](https://search.asu.edu/profile/1797093)), *J. Differential Geom.* 126 (2024), no. 1, 215--295. ArXiv: [1712.03185](https://arxiv.org/abs/1712.03185)
+- Rigidity of asymptotically conical shrinking gradient Ricci solitons (with [B. Kotschwar](https://search.asu.edu/profile/1797093)), *J. Differential Geom.* 100 (2015), no. 1, 55--108. ArXiv: [1307.4746](https://arxiv.org/abs/1307.4746)
 
 #### Harmonic map heat flow
 
-- Harmonic map heat flow with rough boundary data, *Trans. Amer. Math. Soc.* 364 (2012), no. 10, 5265--5283. ArXiv: [1010.3313](https://arxiv.org/abs/1010.3313).
-- Existence of good sweepouts on closed manifolds (with [L. Lin](https://lzlin.sites.ucsc.edu)), *Proc. Amer. Math. Soc.* 138 (2010), no. 11, 4081--4088. ArXiv: [0907.2724](https://arxiv.org/abs/0907.2724).
+- Harmonic map heat flow with rough boundary data, *Trans. Amer. Math. Soc.* 364 (2012), no. 10, 5265--5283. ArXiv: [1010.3313](https://arxiv.org/abs/1010.3313)
+- Existence of good sweepouts on closed manifolds (with [L. Lin](https://lzlin.sites.ucsc.edu)), *Proc. Amer. Math. Soc.* 138 (2010), no. 11, 4081--4088. ArXiv: [0907.2724](https://arxiv.org/abs/0907.2724)
 
 #### Polynomial differential systems
+
+- A quartic system and a quintic system with fine focus of order 18 (with J. Huang, F. Wang, and J. Yang), *Bull. Sci. Math.* 132 (2008), no. 3, 205–217.
 
 ### Expository Writings
 
