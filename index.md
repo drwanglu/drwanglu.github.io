@@ -18,6 +18,6 @@ I completed my postdoctoral training at SLMath, Johns Hopkins University, and Im
 - Teaching Math 5260 (Introduction to Differentiable Manifolds) in Fall 2025.
 - Co-organizing the [Geometric Analysis Seminar](https://sites.google.com/view/xinrui-zhao/yale-geometric-analysis-seminar/) in Fall 2025.
 
-
+## Publications
 
 
