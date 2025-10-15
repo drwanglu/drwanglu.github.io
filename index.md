@@ -11,7 +11,7 @@ I previously held faculty positions at Caltech and the University of Wisconsin--
 I have also been a visiting researcher at the Simons Laufer Mathematical Sciences Institute (SLMath,formerly MSRI) and the Institute for Advanced Study.
 
 I earned a B.S. in 2006 from Peking University and a Ph.D. in Mathematics in 2011 from MIT, where I was advised by [Tobias H. Colding](https://en.wikipedia.org/wiki/Tobias_Colding).
-I completed my postdoctoral training at SLMath, JHU, and Imperial College London.
+I completed my postdoctoral training at SLMath, Johns Hopkins University, and Imperial College London.
 
 ## News
 
