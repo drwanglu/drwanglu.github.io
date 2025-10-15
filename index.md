@@ -15,10 +15,4 @@ I completed my postdoctoral training at SLMath, Johns Hopkins University, and Im
 
 ## Publications
 
-### Entropy for hypersurfaces
 
-### Expanders of mean curvature flow
-
-### Shrinkers of mean curvature flow
-
-### Ricci shrinking solitons
