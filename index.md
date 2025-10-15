@@ -22,17 +22,21 @@ I completed my postdoctoral training at SLMath, Johns Hopkins University, and Im
 
 My research was partially supported by the [NSF](https://www.nsf.gov).
 
-### Colding--Minicozzi entropy
+### Peer-reviewed Papers
 
-### Expanders of mean curvature flow
+- Colding--Minicozzi entropy
 
-### Shrinkers of mean curvature flow
+- Expanders of mean curvature flow
 
-### Shrinking Ricci solitons
+- Shrinkers of mean curvature flow
 
-### Other topics
+- Shrinking Ricci solitons
 
-### Expository writings
+- Harmonic map heat flow
+
+### Expository Writings
+
+### Theses
 
 
 
