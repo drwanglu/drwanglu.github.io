@@ -24,7 +24,7 @@ My research is partially supported by the [NSF](https://www.nsf.gov).
 
 #### Expanders of mean curvature flow
 
-- Existence of monotone Morse flow lines of the expander functional (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/) and [L. Chen](https://sites.google.com/utk.edu/lchen63/)), to appear in *Trans. Amer. Math. Soc.*. ArXiv: [2404.08541](https://arxiv.org/abs/2404.08541)
+- Existence of monotone Morse flow lines of the expander functional (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/) and [L. Chen](https://sites.google.com/utk.edu/lchen63/)), to appear in *Trans. Amer. Math. Soc.* ArXiv: [2404.08541](https://arxiv.org/abs/2404.08541)
 - An integer degree for asymptotically conical self-expanders (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), *Calc. Var. Partial Differential Equations* 62 (2023), no. 7, Paper No. 200, 46 pp. ArXiv: [1807.06494](https://arxiv.org/abs/1807.06494)
 - Topological uniqueness for self-expanders of small entropy (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), *Camb. J. Math.* 10 (2022), no. 4, 785--833. ArXiv: [1902.02642](https://arxiv.org/abs/1902.02642)
 - A mountain-pass theorem for asymptotically conical self-expanders (with [J. Bernstein](https://mathematics.jhu.edu/directory/jacob-bernstein/)), *Peking Math. J.* 5 (2022), no. 2, 213--278. ArXiv: [2003.13857](https://arxiv.org/abs/2003.13857)
